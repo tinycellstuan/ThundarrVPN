@@ -52,7 +52,7 @@ dependencies {
     implementation files('libs\\activation.jar')
     //libraries to implemnt dialog flow
     implementation 'com.google.firebase:firebase-messaging:22.0.0'
-    implementation 'com.google.cloud:google-cloud-dialogflow:4.1.7'
+    implementation 'com.google.cloud:google-cloud-dialogflow:4.2.0'
     implementation 'io.grpc:grpc-okhttp:1.41.0'
 
     testImplementation 'junit:junit:4.13.2'
